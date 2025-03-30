@@ -32,7 +32,6 @@ websites = [
     "https://adityakumar.xyz",
     "https://blog.adityakumar.xyz",
     "https://git.adityakumar.xyz",
-    "https://forgejo.adityakumar.xyz",
     "https://dsa.adityakumar.xyz",
 ]
 
